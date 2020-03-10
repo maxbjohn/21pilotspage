@@ -1,0 +1,187 @@
+*{
+	box-sizing: border-box;
+}
+html{
+	scroll-behavior: smooth;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background-color: black;
+	color: #E2584A;
+	font-family: 'Odibee Sans', cursive;
+}
+a{
+	color: #E2584A;
+}
+img {
+	width: 100%;
+}
+p{
+	font-size: 24px;
+	color: white;
+}
+table{
+	font-size: 24px;
+	width: 80%;
+	margin: 0 auto;
+	text-align: left;
+}
+input[type=text] {
+	width: 75%;
+	margin-left: 20px;
+	margin-right: 7.5%;
+}
+input[type=button] {
+	width:10%;
+}
+h5{
+	font-family: 'tomorrow', sans-serif;
+	text-align: center;
+}
+.singles{
+	margin-bottom: 30px;
+}
+.header-vid{
+	display: flex;
+	justify-content: center;
+	background-image: url(21-pilots-con.jpeg);
+	height: 625px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+}
+.header-vid h1{
+	background-color: rgba(0,0,0,.6);
+	padding: 10px;
+	margin: 0;
+	position: absolute;
+	bottom: 75px;
+	left:30%;
+	width: 40%;
+	text-align: center;
+	text-decoration: underline;
+}
+.header-bar{
+	background-color: #2b2b2b;
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	margin: 0 auto;
+	align-items: center;
+}
+.logo{
+	width: 60px;
+}
+.bio {
+	display: flex;
+	padding-top: 20px;
+}
+.bio-content {
+	width: 70%;
+	padding-right: 5%;
+	padding-left: 5%;
+}
+.bio-img {
+	width: 30%;
+	padding-right: 5%;
+} 
+.map{
+	width: 100%;
+	text-align: center;
+}
+.map img {
+	margin: 0 auto;
+	width: 60%;
+}
+.tours-tickets{
+	color:white;
+	width: 80%;
+	margin: 0 auto;
+}
+.table-head{
+	color:white;
+	font-size: 30px;
+}
+.tickets{
+	background-color: #E2584A;
+	padding:1px;
+	text-align: center
+}
+.album-covers{
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+}
+.album {
+	width: 30%;
+	padding left: 3%;
+	padding-right: 3%;
+}
+.album img{
+	width: 100%;
+}
+.tour{
+	text-align: center;
+}
+.tour-city{
+	text-align: left;
+}
+.spotify{
+	width: 55px;
+	height: 55px;
+}
+.header-with-spotify{
+	width: 100%;
+	display: flex;
+}
+h1{
+	font-family: 'tomorrow', sans-serif;
+	font-size: 36px;
+}
+
+.singles-table{
+	width: 100%;
+	text-align: center;
+	color: white;
+}
+.sign-up{
+	width: 60%;
+	margin: 0 auto;
+	
+}
+.sign-up-box{
+	background-color: #888B99;
+	text-align: left;
+	padding-top: 5px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.tm{
+	font-size:8px;
+}
+.footer-text{
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	text-decoration: underline;
+}
+.footer-links{
+	width: 45px;
+	height: 45px;
+	margin: 8px;
+	position: relative;
+	left: 10%
+
+}
+.blurryface{
+	color: #E2584A;
+}
+.vessel{
+	color: #8C8F9E;
+}
+.trench{
+	color: #BDA943;
+}
+
